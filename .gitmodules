@@ -1,0 +1,4 @@
+[submodule "fishhook"]
+	path = fishhook
+	url = https://github.com/facebook/fishhook.git
+	branch = master
